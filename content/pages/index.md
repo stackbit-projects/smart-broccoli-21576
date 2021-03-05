@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/franck-v-g29arbbvPjo-unsplash.jpg
     title: Welcome to OpenAI.
     content: >
       We are the team of professional developers to make your businesses
