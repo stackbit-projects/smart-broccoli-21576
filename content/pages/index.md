@@ -13,8 +13,7 @@ sections:
         url: /features
         style: primary
         has_icon: false
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         has_icon: false
         icon: arrow-left
