@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+        has_icon: false
     image_alt: OpenAI_img
   - section_id: features
     type: section_features
