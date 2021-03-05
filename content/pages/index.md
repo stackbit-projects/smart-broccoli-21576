@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    image_alt: Open
+    image_alt: OpenAI_img
   - section_id: features
     type: section_features
     background: gray
